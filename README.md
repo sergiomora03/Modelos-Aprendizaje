@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+![](https://investigaciones.uniandes.edu.co/wp-content/themes/vicerrectoria001/images/logo2.png)
 
-You can use the [editor on GitHub](https://github.com/sergiomora03/Modelos-Aprendizaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Métodos Avanzados de Análisis de datos II
 
-### Markdown
+Instructor: *Camilo Andres Franco De Los Rios*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Integrantes
 
-```markdown
-Syntax highlighted code block
+* Ivan Jose Galindo Gaviria <i.galindog@uniandes.edu.co>
+* Jahir Stevens Rodriguez Riveros <js.rodriguezr@uniandes.edu.co>
+* Sergio Alberto Mora Pardo <s.morap@uniandes.edu.co>
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+# Contenido
 
-1. Numbered
-2. List
+|Description  | File|
+|-----------: |:------------:|
+|notebook| [Semana1_IntroduccionModelosAprendizaje_Actividad.ipynb](deploy) |
+|data| [germancredit.csv](https://raw.githubusercontent.com/sergiomora03/Modelos-Aprendizaje/master/germancredit.csv) |
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sergiomora03/Modelos-Aprendizaje/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
