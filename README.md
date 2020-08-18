@@ -18,7 +18,7 @@ Instructor: *Camilo Andres Franco De Los Rios*
 
 |Description  | File|
 |-----------: |:------------:|
-|notebook| [Semana1_IntroduccionModelosAprendizaje_Actividad.ipynb](deploy) |
+|notebook| [Semana1_IntroduccionModelosAprendizaje_Actividad.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Modelos-Aprendizaje/blob/master/Semana1_IntroduccionModelosAprendizaje_Actividad.ipynb) |
 |data| [germancredit.csv](https://raw.githubusercontent.com/sergiomora03/Modelos-Aprendizaje/master/germancredit.csv) |
 
 
